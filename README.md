@@ -54,6 +54,10 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
  
  ## New Post
  ![new post](https://user-images.githubusercontent.com/81139669/126311409-e68e9d11-0c2a-4ca5-9df5-ab297ad0d68d.png)
+ 
+ ## Profile Info
+ We can edit or upload a image on own profile. We can see the profile details of logged in user only.
+ 
 
 
 ## Admin Pannel
