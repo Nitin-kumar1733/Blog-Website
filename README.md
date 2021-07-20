@@ -44,7 +44,9 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
  ## Login Page
  <img width="262" alt="login" src="https://user-images.githubusercontent.com/81139669/126311007-f707a3df-2e6c-403a-92a0-2ec2f6152407.png">
 
-
+ ## Register Page
+ <img width="258" alt="rigister" src="https://user-images.githubusercontent.com/81139669/126311190-101fbe02-98c4-4171-9f2a-5eebf9c20f93.png">
+ 
 ## Adding New Post 
   New post can be posted by only  logged in user other first register or login.
   Post can be edited by only who create the post, othe person only able to see the content
