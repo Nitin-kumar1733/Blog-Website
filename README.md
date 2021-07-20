@@ -34,6 +34,7 @@ You can also upload the things
 
 ## Landing Page
 The home page (visible to everyone), shall direct to blogs and content of the blogs.
+## Home Page
 <img width="394" alt="home page" src="https://user-images.githubusercontent.com/81139669/126310729-465d7f98-de5c-4619-a42e-3def5cdbf5a8.png">
 
 ## Login and register Page
