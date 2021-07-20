@@ -58,6 +58,11 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
  ## Profile Info
  We can edit or upload a image on own profile. We can see the profile details of logged in user only.
  
+ ## profile page
+ <img width="263" alt="profile page" src="https://user-images.githubusercontent.com/81139669/126311821-6a643523-7896-43b9-aaee-703357127166.png">
+
+## Reset the password
+
 
 
 ## Admin Pannel
