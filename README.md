@@ -34,7 +34,7 @@ You can also upload the things
 
 ## Landing Page
 The home page (visible to everyone), shall direct to blogs and content of the blogs.
-![Alt text](/relative/path/to/img.jpg?raw=true)
+![Alt text](/relative/path/to/home page.png?raw=true)
 
 
 ## Login and register Page
