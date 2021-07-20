@@ -51,6 +51,10 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
   New post can be posted by only  logged in user other first register or login.
   Post can be edited by only who create the post, othe person only able to see the content
   they have no permission to edit other post.
+ 
+ ## New Post
+ ![new post](https://user-images.githubusercontent.com/81139669/126311409-e68e9d11-0c2a-4ca5-9df5-ab297ad0d68d.png)
+
 
 ## Admin Pannel
  Admin Pannel, Admin can add the post, delete the post, delete the user.   
