@@ -40,6 +40,10 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
 ## Login and register Page
  Here new user can register by using register option and exsiting user can login directly 
  go to the login page.
+ 
+ ## Login Page
+ <img width="262" alt="login" src="https://user-images.githubusercontent.com/81139669/126311007-f707a3df-2e6c-403a-92a0-2ec2f6152407.png">
+
 
 ## Adding New Post 
   New post can be posted by only  logged in user other first register or login.
