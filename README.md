@@ -62,7 +62,7 @@ The home page (visible to everyone), shall direct to blogs and content of the bl
  <img width="263" alt="profile page" src="https://user-images.githubusercontent.com/81139669/126311821-6a643523-7896-43b9-aaee-703357127166.png">
 
 ## Reset the password
-![Django Blog - Google Chrome 7_20_2021 4_07_45 PM](https://user-images.githubusercontent.com/81139669/126312137-664c5f1f-3be0-4cd0-a3dc-9c45078e0cf1.png)
+<img width="275" alt="Django Blog - Google Chrome 7_20_2021 4_07_45 PM" src="https://user-images.githubusercontent.com/81139669/126312414-4b717618-075c-4790-9f06-e35e8bd3a47f.png">
 
 
 ## Admin Pannel
