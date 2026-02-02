@@ -1,0 +1,20 @@
+# Web Framework & Tools
+Django==6.0.1
+django-crispy-forms==2.5
+crispy-bootstrap4==2025.6
+django-ckeditor==6.7.3
+Pillow==12.1.0
+django-storages==1.14.6
+boto3==1.42.38
+gunicorn==24.1.1
+psycopg2-binary==2.9.11
+python-decouple==3.8
+whitenoise==6.11.0
+
+# AI Stack (Fixed for compatibility)
+openai>=1.68.2,<2.0.0
+httpx==0.28.1
+langchain==1.2.7
+langchain-openai==1.1.7
+langchain-core==1.2.7
+langchain-community==0.4.1

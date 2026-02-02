@@ -14,7 +14,32 @@
             {% endif %}
           </div>
           <h2 class="article-title">{{ object.title }}</h2>
-          <p class="article-content">{{ object.content }}</p>
+          
+          <!-- AI Summary Section -->
+          {% if object.summary %}
+          <div class="alert alert-info" role="alert">
+            <h5 class="alert-heading"><i class="fas fa-robot"></i> AI Summary</h5>
+            <p class="mb-1">{{ object.summary }}</p>
+            <hr>
+            <small class="text-muted">Generated on {{ object.summary_generated_at|date:"F d, Y at g:i A" }}</small>
+          </div>
+          {% endif %}
+          
+          <!-- Summarize Button -->
+          {% if user.is_authenticated %}
+          <div class="mb-3">
+            <a href="{% url 'post-summarize' object.id %}" class="btn btn-outline-primary btn-sm">
+              <i class="fas fa-magic"></i> 
+              {% if object.summary %}
+                Regenerate Summary
+              {% else %}
+                Generate AI Summary
+              {% endif %}
+            </a>
+          </div>
+          {% endif %}
+          
+          <div class="article-content">{{ object.content|safe }}</div>
         </div>
     </article>
 {% endblock content %}

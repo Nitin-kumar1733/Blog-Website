@@ -49,7 +49,70 @@ body {
   }
   
   .article-content {
-    white-space: pre-line;
+    line-height: 1.6;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .article-content p {
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+  }
+  
+  .article-content p:last-child {
+    margin-bottom: 0;
+  }
+  
+  .article-content p:empty {
+    display: none;
+  }
+  
+  .article-content br {
+    line-height: 0.5;
+  }
+  
+  .article-content ul, .article-content ol {
+    margin-left: 2rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+  
+  .article-content li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .article-content strong {
+    font-weight: bold;
+  }
+  
+  .article-content em {
+    font-style: italic;
+  }
+  
+  .article-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 0.5rem 0;
+  }
+  
+  .article-content blockquote {
+    border-left: 4px solid #ddd;
+    padding-left: 1rem;
+    margin-left: 0;
+    margin-bottom: 0.5rem;
+    color: #666;
+  }
+  
+  .article-content h1, .article-content h2, .article-content h3,
+  .article-content h4, .article-content h5, .article-content h6 {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .article-content h1:first-child, .article-content h2:first-child,
+  .article-content h3:first-child, .article-content h4:first-child,
+  .article-content h5:first-child, .article-content h6:first-child {
+    margin-top: 0;
   }
   
   .article-img {

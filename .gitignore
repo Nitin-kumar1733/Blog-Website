@@ -1,0 +1,22 @@
+# Add these to your .gitignore
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+db.sqlite3
+db.sqlite3-journal
+/media
+/staticfiles
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+logs/
+.vscode/
+.idea/
